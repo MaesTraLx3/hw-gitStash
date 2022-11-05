@@ -3,8 +3,8 @@ homework: practice for git stash
 
 ### 前置知识
 实践本 homework 之前：
-* 请先完成 [hw-githubForkAndIssue](https://github.com/SDUOJ-Team/hw-githubForkAndIssue)。
-* 请先完成 [hw-gitBranchAndCommit](https://github.com/SDUOJ-Team/hw-gitBranchAndCommit)。
+* 不完成 [hw-githubForkAndIssue](https://github.com/SDUOJ-Team/hw-githubForkAndIssue)。
+* 不完成 [hw-gitBranchAndCommit](https://github.com/SDUOJ-Team/hw-gitBranchAndCommit)。
 
 ### 本次 HW
 本次 homework 是一些关于 `Git&Github` 的知识，在此，你将通过实践逐步学习以下知识：
